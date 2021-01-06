@@ -1,0 +1,142 @@
+body{
+    margin:0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+font-size:40px;
+}
+.name-highlight{
+    color:orange;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left:5%;
+    padding-left:2%;
+}
+.half-width img{
+    width:100%;
+}
+
+.top-banner{
+    background-image: url("banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height:500px;
+    padding-bottom: 150px;
+}
+.link-button{
+  text-decoration: none;
+  background-color: orange;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+  background-image: linear-gradient(45deg, lightsalmon,tomato);
+}
+
+.link-button1{
+    text-decoration: none;
+    color:white;
+    padding:10px 30px;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding-top: 10px;
+}
+.dream-area{
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5%;
+    height: 80%;
+    background-color: white;
+    
+}
+.experience-area{
+    background-image: url("exp-bg.png");
+    background-repeat: no-repeat;
+  background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#baby-wab{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
+.third-quarter{
+    width:30%;
+    float:left;
+    margin-left: 20px;
+    position:relative;
+    left:10px;
+  
+
+}
+.third-quarter img{
+    width: 100%;
+    
+}
+.third-quarter1{
+    width: 100%;
+    float:left;
+    text-align: center;
+ 
+}
+#form{
+position: center;
+margin-top: 100px;
+background-color:#9998e4;
+padding-bottom:100px;
+}
+#imageurl{
+    background-image: url("1.png");
+    background-repeat: no-repeat;
+    width: 50%;
+    background-position: center;
+    margin-left: 25%;
+    padding:50px 50px;
+    border-radius:7px;
+    margin-top:200px;
+    margin-bottom:200px;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+#web{
+    text-align: center;
+}
+.lebel{
+    width: 50%;
+    border: 1px solid black ;
+    padding:10px 10px;
+}
+#text-1{
+    color:white;
+    text-align:left;
+    position:relative;
+    top:15px;
+}
+#text-2{
+    text-decoration:none;
+    padding:10px 10px;
+    background-color:orange;
+    position:relative;
+    left:180px;
+    bottom:30px;
+
+}
+#color{
+    background-color:#f8f9fc;
+}
